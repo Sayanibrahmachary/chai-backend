@@ -1,1 +1,1 @@
-export const DB_NAME = "videotube"
+export const DB_NAME = "videotube"  //*DB_NAME improves the clarity, maintainability, and flexibility of your backend code, making it easier to manage and understand.
